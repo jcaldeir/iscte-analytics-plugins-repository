@@ -3,7 +3,7 @@
    <description name="ISCTE-IUL REPOSITORY" url="http://www.kiion.com/eclipse/repository">
       This is the plugin Description
    </description>
-   <feature url="features/Software Development Process Mining Plugin for Eclipse_1.0.0.201709121341.jar" id="Software Development Process Mining Plugin for Eclipse" version="1.0.0.201709121341">
+   <feature url="features/Software Development Process Mining Plugin for Eclipse_1.0.0.201803291510.jar" id="Software Development Process Mining Plugin for Eclipse" version="1.0.0.201803291510">
       <category name="Software Development Process Mining"/>
    </feature>
    <category-def name="Software Development Process Mining" label="Software Development Process Mining"/>
