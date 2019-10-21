@@ -3,7 +3,7 @@
    <description name="ISCTE-IUL REPOSITORY" url="https://github.com/jcaldeir/iscte-analytics-plugins-repository/raw/master">
       This is the plugin Respository : https://github.com/jcaldeir/iscte-analytics-plugins-repository/raw/master
    </description>
-   <feature url="features/Software Development Process Mining Plugin for Eclipse_1.0.0.201910211011.jar" id="Software Development Process Mining Plugin for Eclipse" version="1.0.0.201910211011">
+   <feature url="features/Software Development Process Mining Plugin for Eclipse_1.0.0.201910211221.jar" id="Software Development Process Mining Plugin for Eclipse" version="1.0.0.201910211221">
       <category name="Software Development Process Mining"/>
    </feature>
    <category-def name="Software Development Process Mining" label="Software Development Process Mining"/>
